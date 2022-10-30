@@ -1,6 +1,7 @@
 # crud_admin
 
 > Table crud Vue.js Project + Bootstrap 5 for vue
+> https://crud-admin-vuejs2.netlify.app/
 
 ## Build Setup
 
